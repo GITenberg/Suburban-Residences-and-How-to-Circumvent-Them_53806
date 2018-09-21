@@ -1,5 +1,8 @@
 _repo: Suburban-Residences-and-How-to-Circumvent-Them_53806
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53806-h/images/cover.jpg
 creator:
   author:
     agent_name: Panton, J. E. (Jane Ellen)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '46478'
     url: http://www.gutenberg.org/2009/agents/46478
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53806#Suburban-Residences-and-How-to-Circumvent-Them
 gutenberg_issued: '2016-12-26'
 gutenberg_type: Text
 identifiers:
